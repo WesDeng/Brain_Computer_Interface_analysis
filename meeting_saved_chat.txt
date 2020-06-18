@@ -1,0 +1,13 @@
+13:54:16	 From Noura Howell : Gaver talks about designing for legibility of sensors so people have some idea what their functionality is. https://royalsocietypublishing.org/doi/10.1098/rstb.2009.0153
+14:02:13	 From Richmond Wong (he/him) : building on coye's (and maybe max's) comments there's some work on people's perceptions of the form factor glasses-based computing (though a lot of it is fear of being recorded)https://dl.acm.org/doi/10.1145/2851581.2892522https://dl.acm.org/doi/10.1145/2556288.2557352
+14:04:56	 From Max Curran : Genaro Motti, V. and Caine, K. (2014). Understanding the wearability of head-mounted devices from a human- centered perspective. In Proceedings of the 2014 ACM International Symposium on Wearable Comput- ers, pages 83–86. ACM.
+14:05:00	 From Noura Howell : I don’t think you need to go make a hat prototype and get more data. Just maybe include some rationale in the paper about why you didn’t do a hat, or about how you might do a hat in the future.
+14:05:16	 From Noura Howell : Or about why you chose the 4 prototypes you did.
+14:05:16	 From Coye CHESHIRE : +1
+14:05:48	 From Noura Howell : +1 it was unclear to me how speculative or crucial design were involved at all.
+14:06:17	 From Noura Howell : I don’t think you need to say those methods were involved. Paper is still good without “critical design”. Probe makes mores sense. Also great cite on how the artifacts were “carefully crafted questions” in the paper itself :)
+14:07:08	 From Noura Howell : The Design Space figure didn’t do it for me at all. IDK if you need a “design space” at all if you provide some rationale for why those 4 designs. a 2x2 could be that rationale, or there could be other ways of rationalizing it
+14:07:27	 From Coye CHESHIRE : HI all, I don’t want to kill off discussion but I have another meeting starting in this room in a min and I need to start that shortly :)
+14:07:31	 From Noura Howell : Sorry Coye!
+14:07:39	 From Chester Harvey : I actually think it might fit into a 2x2 already
+14:07:52	 From Chester Harvey : with obvious functionality vs discreteness
